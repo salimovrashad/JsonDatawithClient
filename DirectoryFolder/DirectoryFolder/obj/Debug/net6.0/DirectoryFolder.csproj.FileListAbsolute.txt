@@ -1,0 +1,17 @@
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\bin\Debug\net6.0\DirectoryFolder.exe
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\bin\Debug\net6.0\DirectoryFolder.deps.json
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\bin\Debug\net6.0\DirectoryFolder.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\bin\Debug\net6.0\DirectoryFolder.dll
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\bin\Debug\net6.0\DirectoryFolder.pdb
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.csproj.CopyComplete
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.dll
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\refint\DirectoryFolder.dll
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.pdb
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\DirectoryFolder.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\DirectoryFolder\DirectoryFolder\obj\Debug\net6.0\ref\DirectoryFolder.dll
